@@ -4,7 +4,7 @@
     "url": "https://app.marbox.cl",
     "icon": "https://icons.duckduckgo.com/ip3/app.marbox.cl.ico",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 339,
     "timeMonth": 339,
     "timeYear": 339,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-23": 0
+    }
   }
 ]
