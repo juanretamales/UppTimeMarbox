@@ -1,7 +1,7 @@
 url: https://app.marbox.cl
-status: up
-code: 200
-responseTime: 788
-lastUpdated: 2025-04-07T23:17:49.748Z
+status: down
+code: 502
+responseTime: 305
+lastUpdated: 2025-04-08T06:59:28.037Z
 startTime: 2025-02-18T11:17:46.852Z
 generator: Upptime <https://github.com/upptime/upptime>
